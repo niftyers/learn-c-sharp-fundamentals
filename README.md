@@ -1,4 +1,4 @@
-# learn-c-sharp-fundamentals
+# Learn C# Fundamentals
 
 ### Chapters
 1. Introduction
